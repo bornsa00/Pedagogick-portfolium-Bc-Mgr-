@@ -1,7 +1,8 @@
-Pedagogické portfolio <br>
-Magisterské studium <br>
-Bc. Lucie Bryndová (D41758) <br>
-Katedra technické a informační výchovy <br>
+# Pedagogicke-portfolium-Bc-Mgr-
+Pedagogické portfolio
+Magisterské studium
+Bc. Sandra Bornová (D25191)
+Katedra technické a informační výchovy
 Pedagogická fakulta, UPOL
-
-__Zde budou vaše vlastní údaje__
+[Metodický list.pdf](https://github.com/user-attachments/files/25267031/Metodicky.list.pdf)
+[Pracovní list.pdf](https://github.com/user-attachments/files/25267033/Pracovni.list.pdf)
